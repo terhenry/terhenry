@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terhenry
-- 👀 I’m interested in solutions advisory and consulting
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in Solutions
+- 🌱 I’m currently learning it all
 - 💞️ I’m looking to collaborate on cyber threat mitigation
 - 📫 How to reach me - this profile. 
 
